@@ -1,2 +1,2 @@
-html5testproject
+Mirko & Brksi html5 & wcf test project
 ================
